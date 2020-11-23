@@ -1,6 +1,6 @@
 <?php
 
-    date_default_timezone_set(PRC);
+    //date_default_timezone_set(PRC);
     ini_set('date.timezone','Asia/Shanghai');
     /*
     session_start();

@@ -33,8 +33,8 @@ a:visited { text-decoration: none;color: green}
     <script src="xadmin/lib/layui/layui.js" charset="utf-8"></script>
     <script type="text/javascript" src="xadmin/js/xadmin.js"></script>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/simple-line-icons/css/simple-line-icons.css">
-    <link rel="stylesheet" href="./css/font-awesome/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="./css/simple-line-icons.css">
+    <link rel="stylesheet" href="./css/fontawesome-all.min.css">
     <link rel="stylesheet" href="./css/styles.css">
 
 <script language="javascript">

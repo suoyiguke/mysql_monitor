@@ -165,3 +165,6 @@ http://yourIP/mysql_monitor/mysql_repl_monitor.php
 
 加一个超链接，可方便地接入你们的自动化运维平台里。
 
+
+
+请使用 php7
